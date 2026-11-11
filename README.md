@@ -22,6 +22,7 @@ The goal is to help developers discover useful tools for coding, testing, debugg
 🧪 Testing
 
 - Add useful free testing tools here.
+- "agent-qa" (https://vostride.com) — AI QA for web, Android and iOS with persistent memidex memory, validated self-improvement and step/screenshot evidence. FSL-1.1-ALv2; $0 for permitted local software use, with model/infrastructure costs separate.
 
 🌐 API Tools
 
