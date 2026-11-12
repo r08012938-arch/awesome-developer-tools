@@ -37,7 +37,7 @@ The goal is to help developers discover useful tools for coding, testing, debugg
 
 🛠️ Utilities
 
-- Add useful free utilities for developers here.
+- [BestJSON](https://bestjson.com/) — Free browser-based tools to format, validate, repair, compare, query, and convert JSON locally without uploading input.
 
 🤝 Contributing
 
